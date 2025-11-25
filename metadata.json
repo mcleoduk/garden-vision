@@ -1,0 +1,7 @@
+{
+  "name": "GardenVision AI",
+  "description": "Transform your outdoor space with AI. Upload a photo of your yard and visualize stunning landscaping designs in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
